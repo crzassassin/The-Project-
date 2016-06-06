@@ -1,0 +1,133 @@
+GTA :
+  guns:
+   types:
+    shot gun
+    pistol
+    smg
+    launchers
+	
+   wooden t1:
+   stone   t2: 
+   iron    t3:
+   gold    t4:
+ 
+  armor:
+   lether
+   chain
+   iron
+   gold
+   diamond
+  vehicles:
+   car
+   speed boat
+  currency:
+   copper coin
+   gold coin
+   silver coin
+  buildings / shops in spawn:
+   armorers:
+    are you in need of protection , cant afford a body guard ??
+    well then this is the place for you ;)
+   gun smiths:
+    guns , GUNS !! we got guns ; and lots of em
+   ammo galore:
+    all your ammo needs in one place , reasonably cheap prices
+   demo shop:
+    buy and sell explosives and explosive launchers !
+   bank:
+    ur items are safe with us !
+    and so is your money 
+   gamblers den:
+    gamble your money away 
+   subway :
+    get a train to a random location
+ explosives:
+  basic grenade
+  basic gas grenade 
+  basic shrapenal grenade
+  basic flame grenade
+  basic emp
+  advanced grenade
+  advanced gas grenade
+  advanced shrapenal grenade
+  advanced flamegrenade
+  advanced emp 
+  
+  molitov coktail : weak
+  molitov coktail : strong
+  
+ secret wepons:
+  ray gun:
+   mk1
+   mk2
+   mk3
+   mk4 (lazer rifle)
+  minigun:
+   regular bullets 
+   armor pearcing bullets
+  long distance sniper:
+   armor pearcing round
+  jet pack:
+   small barel of fuel 
+   large barel of fuel
+  flamer:
+   fmaler fuel
+   toxic flamer fuel
+  PRG:
+   guidence system
+   tripple shot
+   air to ground
+   
+ apartments + details:
+  tent:
+   1 single chest 
+   1 camp fire ( cooks food only )
+   gives owner foreging ability:
+    allows player to randomly find food and ocasionaly ammo 
+   no rent but costs to buy
+  camper van:
+   1 fouble chest 
+   1 furnace 
+   weekly rent ( about 20 hrs irl)
+  1 bedroom bungalow:
+   2 douunle chests
+   1 furnace
+   monthly rent ( about 3 irl days )
+  2 bedroom house:
+   4 double chests
+   1 enderchest 
+   1 phone ( ability to have people over)
+   2 furnaces
+   small garage:
+    place to store up to 2 cars ( chest in there only alows cars to be put in )
+   montly rent
+  4 bedroom house:
+   6 double chests 
+   1 furnace
+   1 laptop ( allows ability to warp to difrent places)
+   1 phone ( ability to have people over)
+   medium garage:
+    place to store up to 3 cars ( chest in there only alows cars to be put in )
+   small shed:
+    allows use of ammo boxes ( chests for ammo )   
+  sea side apartment:
+   9 double chests 
+   3 furnaces
+   1 pc ( like laptop but quicker travel )	
+   1 smart phone ( allows for more people to come over )
+   small garage:
+    place to store up to 2 cars ( chest in there only alows cars to be put in )
+   fishing:
+    a skill based activity to catch food and other items that can be sold for scraps
+   monthly rent 
+  pent-house appartment:
+   14 double chests
+   3 furnaces 
+   1 pc ( like a laptop but quicker travel )
+   1 smart phone ( allows for more people to come over )
+   large garage:
+    place to store up to 5 cars ( chest in there only alows cars to be put in )
+   small vault:
+    allows storage of guns , ammo and MONEY 
+   yearly rent ( about 15 days irl ) but is expensive and requires previous house
+  
